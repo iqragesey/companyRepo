@@ -8,6 +8,8 @@ public class Main {
         audi.door = "2";
         audi.number = "999";
         audi.color = "white";
+
+        test cases for the color of the car
         
 
 
